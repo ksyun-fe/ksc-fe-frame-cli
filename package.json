@@ -1,6 +1,6 @@
 {
   "name": "ksc-fe-frame-cli",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "create frame",
   "main": "index.js",
   "dependencies": {
