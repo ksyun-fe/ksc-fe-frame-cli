@@ -1,6 +1,6 @@
 {
   "name": "ksc-fe-frame-cli",
-  "version": "0.0.4",
+  "version": "0.0.6",
   "description": "create frame",
   "main": "index.js",
   "dependencies": {
@@ -18,6 +18,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "init": "node index.js"
   },
+  "homepage": "http://ks3-cn-beijing.ksyun.com/bigdata-fe/project/kfc/index.html",
   "repository": {
     "type": "git",
     "url": "git@github.com:ksyun-fe/ksc-fe-frame-cli.git"
