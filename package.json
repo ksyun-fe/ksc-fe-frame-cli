@@ -1,0 +1,30 @@
+{
+  "name": "ksc-fe-frame-cli",
+  "version": "0.0.4",
+  "description": "create frame",
+  "main": "index.js",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "commander": "^2.19.0",
+    "events": "^3.0.0",
+    "execa": "^1.0.0",
+    "rimraf": "^2.6.2"
+  },
+  "devDependencies": {},
+  "bin": {
+    "kfc": "bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "init": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ksyun-fe/ksc-fe-frame-cli.git"
+  },
+  "author": "mashihao",
+  "license": "ISC",
+  "directories": {
+    "test": "test"
+  }
+}
